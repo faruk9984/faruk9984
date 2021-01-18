@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning -> Python Programming
 - 📫 How to reach me ->@Facebook
 - 😄 Pronouns ->He/His
-- ⚡ Fun fact -> I sleep almost 14 hours everyday.
+- ⚡ Fun fact -> I spend almost 12 hours listening songs everyday.
 
