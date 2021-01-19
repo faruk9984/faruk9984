@@ -7,7 +7,14 @@
 - 😄 Pronouns ->He/His
 - ⚡ Fun fact -> I spend almost 12 hours listening songs everyday.
 
-⚡-> Currently, I am looking for a full-time job in Data Science, Machine Learning, or a related field.
+ ⚡->  Currently, I am looking for a full-time job in Data Science, Machine Learning, or a related field.
+ 
+ Things I'm good at 🔥
+ 
+ Languages: Python, C, OOP
+ 
+ Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Open CV, Seaborn.
+
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=faruk9984&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
