@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faruk9984" alt="faruk9984" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
  
 - 🔭 I’m currently working on -> **IoT**
 - 🌱 I’m currently learning -> **Arduino Programming Language**
