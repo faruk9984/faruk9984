@@ -10,7 +10,7 @@
 - 😄 Pronouns -> He/His
 - ⚡ Fun fact -> **I spend almost 12 hours listening songs everyday.**
 
-<h2>- ⚡->  Currently, I am looking for a full-time job in Data Science, Machine Learning, or a related field.</h2>
+- ⚡->  Currently, I am looking for a full-time job in Data Science, Machine Learning, or a related field.
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk9984&show_icons=true&locale=en&layout=compact" alt="faruk9984" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk9984&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en" alt="faruk9984" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=faruk9984&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en" alt="faruk9984" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk9984&" alt="faruk9984" /></p>
 
