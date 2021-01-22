@@ -6,8 +6,8 @@
  
 - 🔭 I’m currently working on -> **IoT**
 - 🌱 I’m currently learning -> **Arduino Programming Language**
-- 📫 How to reach me **farukmd494@gmail.com**
-- 😄 Pronouns ->He/His
+- 📫 How to reach me -> **farukmd494@gmail.com**
+- 😄 Pronouns -> He/His
 - ⚡ Fun fact -> **I spend almost 12 hours listening songs everyday.**
 
 <h2>- ⚡->  Currently, I am looking for a full-time job in Data Science, Machine Learning, or a related field.</h2>
