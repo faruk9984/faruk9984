@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk9984&label=Profile%20views&color=0e75b6&style=flat" alt="faruk9984" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faruk9984" alt="faruk9984" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
  
 - 🔭 I’m currently working on -> **IoT**
 - 🌱 I’m currently learning -> **Arduino Programming Language**
@@ -28,5 +30,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk9984&show_icons=true&locale=en&layout=compact" alt="faruk9984" /></p>
 
  
+</p>
 
  
