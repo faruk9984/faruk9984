@@ -5,7 +5,8 @@
 - 📫 How to reach me **farukmd494@gmail.com**
 - 😄 Pronouns ->He/His
 - ⚡ Fun fact -> **I spend almost 12 hours listening songs everyday.**
- ⚡->  Currently, I am looking for a full-time job in Data Science, Machine Learning, or a related field.
+
+- ⚡->  Currently, I am looking for a full-time job in Data Science, Machine Learning, or a related field.
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
