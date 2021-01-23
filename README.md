@@ -1,7 +1,7 @@
-
+ 
 <img align="right" alt="GIF"  width="300px" src="https://user-images.githubusercontent.com/40043055/105580773-8b750600-5db8-11eb-8bf6-eb5945e2bce8.jpg" />
 
-<h1 align="center">Hi 👋, I'm Mohammad Faruk! <img src="https://github.com/faruk9984/faruk9984/blob/master/Profile%20generator/Developer.gif" width="65px"></h1>
+<h1 align="center">Hi 👋, I'm Mohammad Faruk! <img src="https://user-images.githubusercontent.com/40043055/105588839-d3e1f300-5dbb-11eb-99a7-335c40c8be35.gif" width="65px"></h1>
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
