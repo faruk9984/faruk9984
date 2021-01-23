@@ -86,18 +86,18 @@
 
 
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/faruk9984?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
-
 <br>
+<details>
+  <summary>:zap: Tab here :P</summary>
+<p align="center"><img src="https://user-images.githubusercontent.com/40043055/105609130-66d95800-5dd1-11eb-8ead-076b65a8e897.gif" width="60"></p> <br>
+</details>  
 
 **Visitors Count:**
 ![VisitorCount](https://profile-counter.glitch.me/{faruk9984}/count.svg)
 
  <br> <br> <br>
 
-<details>
-  <summary>:zap: Tab here :P</summary>
-<p align="center"><img src="https://user-images.githubusercontent.com/40043055/105609130-66d95800-5dd1-11eb-8ead-076b65a8e897.gif" width="60"></p> <br>
-</details>  
+
  
 
 
