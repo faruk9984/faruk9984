@@ -11,17 +11,21 @@
 
 
 
-
+<!--- 
 <h1 align="center">Hi 👋, I'm Mohammad Faruk!</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk9984&label=Profile%20views&color=0e75b6&style=flat" alt="faruk9984" /> </p>
- 
+--->
+<!--- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk9984&label=Profile%20views&color=0e75b6&style=flat" alt="faruk9984" /> </p> 
+--->
+<!--- 
 <p align="left">
  <img src="https://badges.pufler.dev/visits/faruk9984/faruk9984"/>
  <img src="https://badges.pufler.dev/years/faruk9984"/>
  <img src="https://badges.pufler.dev/repos/faruk9984"/>
  <img src="https://badges.pufler.dev/commits/monthly/faruk9984"/>
 </p>
+
+--->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faruk9984" alt="faruk9984" /></a> </p>
 
