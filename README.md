@@ -1,4 +1,16 @@
- 
+
+<img align="right" alt="GIF"  width="300px" src="https://user-images.githubusercontent.com/40043055/105580773-8b750600-5db8-11eb-8bf6-eb5945e2bce8.jpg" />
+
+<h1 align="center">Hi 👋, I'm Mohammad Faruk! <img src="https://github.com/faruk9984/faruk9984/blob/master/Profile%20generator/Developer.gif" width="65px"></h1>
+
+<!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
+
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://badges.pufler.dev/repos/Kushal997-das?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushal-das-7337421a9/)
+<br>
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Mohammad Faruk!</h1>
 
@@ -15,7 +27,7 @@
 
 <img align="right" alt="Coding" width="220" src="https://user-images.githubusercontent.com/40043055/105578082-ea7e4f00-5da7-11eb-9585-4252f392e69f.gif">
  
-
+ 
  
 - 🔭 I’m currently working on -> **IoT**
 - 🌱 I’m currently learning -> **Arduino Programming Language**
@@ -50,5 +62,11 @@
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
+
+
+
+
+
+
 
 
