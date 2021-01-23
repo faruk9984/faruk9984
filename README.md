@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faruk9984" alt="faruk9984" /></a> </p>
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/40043055/105578082-ea7e4f00-5da7-11eb-9585-4252f392e69f.gif">
+<img align="right" alt="Coding" width="220" src="https://user-images.githubusercontent.com/40043055/105578082-ea7e4f00-5da7-11eb-9585-4252f392e69f.gif">
  
 
  
