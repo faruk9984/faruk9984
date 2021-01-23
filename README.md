@@ -1,7 +1,4 @@
- <img src="Coding _Monochromatic.svg" alt="Illustration" width="100" align="right" />
- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
- 
- 
+
 <img align="right" alt="GIF"  width="220px" height="170px" src="https://user-images.githubusercontent.com/40043055/105607425-d565e800-5dc8-11eb-9050-484c87a5da46.gif" />
 
 <h1 align="center">Hi 👋, I'm Mohammad Faruk!<img src="https://user-images.githubusercontent.com/40043055/105588839-d3e1f300-5dbb-11eb-99a7-335c40c8be35.gif" width="65px"></h1>
@@ -14,6 +11,8 @@
 
 <!--- 
 <h1 align="center">Hi 👋, I'm Mohammad Faruk!</h1>
+ <img src="Coding _Monochromatic.svg" alt="Illustration" width="100" align="right" height="100" />
+ <a href="#"><img width="100" align="left" height="100" src="https://i.imgur.com/iXuL1HG.png" /></a>
 --->
 <!--- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk9984&label=Profile%20views&color=0e75b6&style=flat" alt="faruk9984" /> </p> 
