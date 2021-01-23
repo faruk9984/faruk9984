@@ -39,6 +39,19 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk9984&show_icons=true&locale=en&layout=compact" alt="faruk9984" />
 </p>
 
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+
+[github-readme-stats](https://github.com/faruk9984/github-readme-stats)*
 
 
- 
+<a href="https://github.com/faruk9984/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk9984&show_icons=true&include_all_commits=true&theme=material-palenight" alt="faruk's github stats" />
+</a>
+<a href="https://github.com/faruk9984/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruk9984&layout=compact&theme=material-palenight" />
+</a>
+
