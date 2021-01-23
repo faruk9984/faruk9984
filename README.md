@@ -71,7 +71,7 @@
 </p>
 
 <details align="center">
-  <summary>Faruk's Github Streak 😊</summary>
+  <summary>Faruk's Github Streak 😎</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faruk9984&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
