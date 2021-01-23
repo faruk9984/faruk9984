@@ -70,9 +70,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruk9984&layout=compact&theme=material-palenight" alt="faruk9984"/>
 </p>
 
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk9984&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+<details align="center">
+  <summary>Faruk's Github Streak 😊</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faruk9984&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+  </a>
+</p>
+</details>
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -87,4 +92,6 @@
 
 
 
+**Visitors Count:**
+![VisitorCount](https://profile-counter.glitch.me/{faruk9984}/count.svg)
 
