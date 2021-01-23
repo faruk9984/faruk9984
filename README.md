@@ -39,7 +39,7 @@
 
 - ⚡->  Currently, I am looking for a full-time job in Data Science, Machine Learning, or a related field.
 
- 
+ <img align="right" alt="GIF"  width="45px" src="https://user-images.githubusercontent.com/40043055/105606101-8bc5cf00-5dc1-11eb-8c55-93fc36f67d74.gif" />
 <h3 align="left">Connect with me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 <p align="left">
 <a href="https://fb.com/mohammad faruk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mohammad faruk" height="30" width="40" /></a>
