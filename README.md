@@ -11,7 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faruk9984" alt="faruk9984" /></a> </p>
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/40043055/105578082-ea7e4f00-5da7-11eb-9585-4252f392e69f.gif">
+ 
+
  
 - 🔭 I’m currently working on -> **IoT**
 - 🌱 I’m currently learning -> **Arduino Programming Language**
@@ -36,5 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=faruk9984&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en" alt="faruk9984" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk9984&show_icons=true&locale=en&layout=compact" alt="faruk9984" />
 </p>
+
+
 
  
