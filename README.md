@@ -1,5 +1,5 @@
  
-<img align="right" alt="GIF"  width="220px" height="170px" src="https://user-images.githubusercontent.com/40043055/105580773-8b750600-5db8-11eb-8bf6-eb5945e2bce8.jpg" />
+<img align="right" alt="GIF"  width="220px" height="170px" src="https://user-images.githubusercontent.com/40043055/105607425-d565e800-5dc8-11eb-9050-484c87a5da46.gif" />
 
 <h1 align="center">Hi 👋, I'm Mohammad Faruk!<img src="https://user-images.githubusercontent.com/40043055/105588839-d3e1f300-5dbb-11eb-99a7-335c40c8be35.gif" width="65px"></h1>
 
