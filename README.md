@@ -91,7 +91,7 @@
 <br>
 <details>
   <summary>:zap: Tab Here :P</summary>
-<p align="center"><img src="https://user-images.githubusercontent.com/40043055/105609130-66d95800-5dd1-11eb-8ead-076b65a8e897.gif" width="70"></p> <br>
+<p align="center"><img src="https://user-images.githubusercontent.com/40043055/105609130-66d95800-5dd1-11eb-8ead-076b65a8e897.gif" width="80"></p> <br>
 </details>  
  <br> 
  
