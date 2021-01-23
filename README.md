@@ -1,11 +1,11 @@
  
-<img align="right" alt="GIF"  width="300px" src="https://user-images.githubusercontent.com/40043055/105580773-8b750600-5db8-11eb-8bf6-eb5945e2bce8.jpg" />
+<img align="right" alt="GIF"  width="220px" src="https://user-images.githubusercontent.com/40043055/105580773-8b750600-5db8-11eb-8bf6-eb5945e2bce8.jpg" />
 
 <h1 align="center">Hi 👋, I'm Mohammad Faruk! <img src="https://user-images.githubusercontent.com/40043055/105588839-d3e1f300-5dbb-11eb-99a7-335c40c8be35.gif" width="65px"></h1>
 
-<!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
+<!-- <h3 align="center"> A passionate Data Scientist from Bangladesh.</h3><br>--> 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://badges.pufler.dev/repos/Kushal997-das?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushal-das-7337421a9/)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/faruk9984) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=faruk9984.profileviews-badge)](https://github.com/faruk9984) [![followers](https://img.shields.io/github/followers/faruk9984?style=social)](https://github.com/faruk9984?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/faruk9984)[![Repos Badge](https://badges.pufler.dev/repos/faruk9984)](https://badges.pufler.dev/repos/faruk9984?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mohammad-faruk-219570154/)
 <br>
 
 
