@@ -24,9 +24,17 @@
 </p>
 
 --->
-
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=faruk9984&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
+</details>
+<!--- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faruk9984" alt="faruk9984" /></a> </p>
-
+--->
 <img align="right" alt="Coding" width="220" src="https://user-images.githubusercontent.com/40043055/105578082-ea7e4f00-5da7-11eb-9585-4252f392e69f.gif">
  
  
@@ -70,6 +78,7 @@
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
+
 
 
 
