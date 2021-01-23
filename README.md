@@ -56,7 +56,7 @@
  
  <h2> Things I'm good at 🔥 </h2>
  
- <h2><img height="30" src="https://img.shields.io/badge/Languages and tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></h2>
+ <h3><img height="30" src="https://img.shields.io/badge/Languages and tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></h3>
  
 <img align="right" alt="GIF"  width="45px" src="https://user-images.githubusercontent.com/40043055/105606101-8bc5cf00-5dc1-11eb-8c55-93fc36f67d74.gif" />
  <!--- 
