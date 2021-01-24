@@ -5,7 +5,7 @@
 
 <!-- <h3 align="center"> A passionate Data Scientist from Bangladesh.</h3><br>--> 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/faruk9984) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=faruk9984.profileviews-badge)](https://github.com/faruk9984) [![followers](https://img.shields.io/github/followers/faruk9984?style=social)](https://github.com/faruk9984?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/faruk9984) [![Repos Badge](https://badges.pufler.dev/repos/faruk9984)](https://badges.pufler.dev/repos/faruk9984?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=faruk9984&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/faruk9984) [![Years](https://badges.pufler.dev/years/faruk9984)](https://github.com/faruk9984) [![commits monthly](https://badges.pufler.dev/commits/monthly/faruk9984)](https://github.com/faruk9984) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mohammad-faruk-219570154/)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/faruk9984) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=faruk9984.profileviews-badge)](https://github.com/faruk9984) [![followers](https://img.shields.io/github/followers/faruk9984?style=social)](https://github.com/faruk9984?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/faruk9984) [![Repos Badge](https://badges.pufler.dev/repos/faruk9984)](https://badges.pufler.dev/repos/faruk9984?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=faruk9984&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/faruk9984) [![Years](https://badges.pufler.dev/years/faruk9984)](https://github.com/faruk9984) [![commits monthly](https://badges.pufler.dev/commits/monthly/faruk9984)](https://github.com/faruk9984)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mohammad-faruk-219570154/)
 <br>
 
 
@@ -17,14 +17,14 @@
 <!--- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk9984&label=Profile%20views&color=0e75b6&style=flat" alt="faruk9984" /> </p> 
 --->
-<!--- 
+
 <p align="left">
  <img src="https://badges.pufler.dev/visits/faruk9984/faruk9984"/>
  <img src="https://badges.pufler.dev/years/faruk9984"/>
  <img src="https://badges.pufler.dev/repos/faruk9984"/>
  <img src="https://badges.pufler.dev/commits/monthly/faruk9984"/>
 </p>
-
+<!--- 
 --->
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
