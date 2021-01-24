@@ -17,14 +17,13 @@
 <!--- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk9984&label=Profile%20views&color=0e75b6&style=flat" alt="faruk9984" /> </p> 
 --->
-
+<!--- 
 <p align="left">
  <img src="https://badges.pufler.dev/visits/faruk9984/faruk9984"/>
  <img src="https://badges.pufler.dev/years/faruk9984"/>
  <img src="https://badges.pufler.dev/repos/faruk9984"/>
  <img src="https://badges.pufler.dev/commits/monthly/faruk9984"/>
 </p>
-<!--- 
 --->
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
