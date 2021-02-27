@@ -53,6 +53,7 @@
 <p align="left">
 <a href="https://fb.com/mohammad faruk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mohammad faruk" height="30" width="40" /></a>
 <a href="https://instagram.com/m_faruk1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="m_faruk1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-faruk-219570154/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/LinkedIn.svg" alt="m_faruk1" height="30" width="40" /></a>
 </p>
  
  <h2> Things I'm good at 🔥 </h2>
