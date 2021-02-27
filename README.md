@@ -51,7 +51,7 @@
 <h2 align="left">Connect with me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF"  width="45px" src="https://user-images.githubusercontent.com/40043055/105606442-b7e24f80-5dc3-11eb-97df-3ee599a0109c.gif" />
 <p align="left">
-<a href="https://fb.com/mohammad faruk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mohammad faruk" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004477217383" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mohammad faruk" height="30" width="40" /></a>
 <a href="https://instagram.com/m_faruk1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="m_faruk1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-faruk-219570154/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohammad faruk" height="30" width="40" /></a>
 </p>
