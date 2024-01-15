@@ -40,8 +40,9 @@
  
  
  
-- 🔭 I’m currently working on -> **IoT**
-- 🌱 I’m currently learning -> **Arduino Programming Language**
+- 🔭 I’m currently working on -> **Automation Testing Using Selenium WebDriver,
+Java, JUnit, and TestNG**
+- 🌱 I’m currently learning -> **JavaScript**
 - 📫 How to reach me -> **farukmd494@gmail.com**
 - 😄 Pronouns -> He/His
 - ⚡ Fun fact -> **I spend almost 12 hours listening songs everyday.**
