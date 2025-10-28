@@ -46,7 +46,7 @@
 - 😄 Pronouns -> He/His
 - ⚡ Fun fact -> **I spend almost 12 hours listening songs everyday.**
 
-- ⚡->  Currently, I am looking for a full-time job in Data Science, Machine Learning, or a related field.
+- ⚡->  Currently, I am looking for a full-time job in Automation Testing.
 
 <h2 align="left">Connect with me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF"  width="45px" src="https://user-images.githubusercontent.com/40043055/105606442-b7e24f80-5dc3-11eb-97df-3ee599a0109c.gif" />
